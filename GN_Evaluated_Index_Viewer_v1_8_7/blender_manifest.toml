@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "gn_index_viewer"
+version = "1.8.7"
+name = "GN Evaluated Index Viewer"
+tagline = "Show indices from evaluated Geometry Nodes output"
+maintainer = "PvtBeans"
+type = "add-on"
+
+website = "https://www.youtube.com/@Pvtbeansz"
+
+tags = ["Geometry Nodes", "Modeling", "Node"]
+
+blender_version_min = "5.2.0"
+
+copyright = ["2026 PvtBeans"]
+license = ["SPDX:GPL-2.0-or-later"]
